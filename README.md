@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="80">
 </p>
 
-# 🗂️ Task Manager Web App (Comming soon)📝
+# 🗂️ Task Manager Web App (Coming soon)📝
 
 A lightweight and user-friendly task manager built with **vanilla JavaScript**, **HTML**, and **CSS**.
 
