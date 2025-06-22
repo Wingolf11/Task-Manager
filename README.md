@@ -4,9 +4,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="80">
 </p>
 
-# 🗂️ Task Manager Web App (Coming soon)📝
+# 🗂️ Task Manager Web App 📝
 
-A lightweight and user-friendly task manager built with **vanilla JavaScript**, **HTML**, and **CSS**.
+A lightweight and user-friendly task manager built with **vanilla JavaScript**, **HTML**, and **CSS**. It is still a work in progress, so not everything has been built yet. More features will be added soon.
+Right now, it includes the basic functionalities: adding and deleting a task.
+The style.css is very simple for now, but I will improve it later once the script is finalized and I’ve thought more about the final design.
 
 ## What It Does
 
