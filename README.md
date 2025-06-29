@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="80" style="margin-right: 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="80" style="margin-right: 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Electron_Software_Framework_Logo.svg" alt="Electron Logo" width="80" style="margin-right: 15px;">
+  <img src="https://fr.wikipedia.org/wiki/Electron_%28framework%29#/media/Fichier:Electron_Software_Framework_Logo.svg" alt="Electron Logo" width="80" style="margin-right: 15px;">
 </p>
 
 # 🗂️ Task Manager Desktop App 📝
