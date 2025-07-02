@@ -7,14 +7,29 @@
 
 # 🗂️ Task Manager Desktop App 📝
 
-A lightweight and user-friendly **desktop task manager app** built with **Electron.js**, **JavaScript**, **HTML**, and **CSS**. This project is still a work in progress with more features planned.
+A lightweight and user-friendly **desktop task manager app** built with **Electron.js**, **JavaScript**, **React.js**, **Tailwind CSS**, and **Anime.js**. This project is still a work in progress with more features planned.
 
 Currently, it includes basic functionalities such as adding and deleting tasks with a simple and clean design. The app will run natively on desktop environments thanks to Electron.
 
 ## What It Does for now
 
-- Add and delete tasks easily  
+- Add and delete tasks easily
 
-## Why This Project?
+## Tech Stack and Setup
 
-This project is an excellent way to learn desktop app development using web technologies by leveraging Electron. It demonstrates how to build cross-platform desktop applications while mastering JavaScript fundamentals, UI design, and Electron's APIs.
+This app is built using the following key technologies:
+
+- **Electron.js**: for creating the cross-platform desktop app shell and handling native OS features.
+- **React.js**: for building the frontend UI and managing the app's component structure.
+- **Tailwind CSS**: utility-first CSS framework for fast and responsive styling.
+- **Anime.js**: to add smooth animations and enhance user experience.
+- **Vite**: a fast development server and build tool for modern frontend projects.
+- **PostCSS and Autoprefixer**: for processing Tailwind CSS styles.
+
+## Project Structure Overview
+
+- `src/main/index.js`: Electron main process — creates app windows and loads the React frontend.
+- `src/renderer/main.jsx`: React entry point — renders the React app inside the Electron window.
+- `src/renderer/App.jsx`: Main React component.
+- `src/renderer/index.html`: HTML template with `<div id="root"></div>` where React mounts.
+- `tailwind.config.js` and `postcss.config.js`: Tailwind CSS and PostCSS configurations.
