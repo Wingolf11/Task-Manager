@@ -1,0 +1,6 @@
+Rule unknown @tailwind solved by disabling css validation in vscode 
+settings
+
+The .config.js files are in esmodule not commonjs (to get rid of a mesage from vscode)
+
+A (type : module) was then added to the package.json
